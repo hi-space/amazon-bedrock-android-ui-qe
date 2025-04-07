@@ -1,0 +1,50 @@
+issue_type,object,issue_description
+Visibility,Text,Unable to see the Light text on White background
+Visibility,Text,Unable to see the Black text on Dark background
+Visibility,Text,Unable to see the Color text on that color background
+Visibility,Text,It's hard to see the Dark text on Dark background
+Visibility,Button,Unable to see the White button on White background
+Visibility,Button,Unable to see the Dark button on Dark background
+Visibility,Button,Unable to see the Color button on that Color background
+Visibility,Icon,It's hard to see the Dark icons on Dark background
+Visibility,Icon,It's hard to see the White Icons on Light background
+Visibility,Icon,Unable to see the White icons on White background
+Visibility,Icon,It's hard to see the Dark icons on Dark background
+Align,Number,Clock numbers are not aligned on Lock screen
+Align,Number,Clock numbers are not aligned on Cover screen
+Align,Texts & Number,Consonants and numbers are not aligned on Keypad
+Align,Number,Number of unread message is not aligned in Message
+Overlap,Icon,Theme checkboxes are overlapped with default checkboxes
+Overlap,Icon,Theme Call icons are overlapped with default Call icons
+Cut,Text/number,The number of unread message is cut off
+Cut,Image,The Head on the top of Lock screen Wallpaper is cut off
+Cut,Image,The Head of Raven on the top of Cover screen Wallpaper is cut off
+Cut,Numbers,Clock number on Cover screen is cut off
+Cut,Image,The Bears at the bottom of Message conversation background are cut off
+Out of border,Text,Application's name is out of box
+Out of border,Icons,Alternative characters are out of border
+Out of border,Icons,Clock hand is out of Clock icon's border
+Not fit,Image,Wallpaper image is not fit with device's Lock screen
+Not fit,Image,Wallpaper image is not fit with device's Cover screen
+Not Apply,Image,Theme does not apply
+Apply differently,Image,The Applied Lock screen wallpaper is different from the preview
+Apply differently,Image,The Applied Cover screen wallpaper is different from the preview
+Apply differently,Icon,The Applied Calendar icon is different from the preview
+Apply differently,Sound,The Applied ringtone is different from the preview
+Apply differently,Number,Applied Clock Number of Lock screen doesn't have border like the preview
+Apply not appropriate,Icon,Tips application is displayed by ""AR Zone"" Icon
+Execution,,""Wallpaper and style keeps stopping"" pop-up displays
+Sound,,The video sound in the Video Theme call background doesn't play
+Display,,Colors available in ""Change color"" of folder are the same
+Function,,Time on Clock icon does not sync with Device's current Time
+Function,,Date of Calendar displays as a fix date
+Display,,Size of Preload Application Icons is too small
+Copy right,Icon,Galaxy Wearable app icon is changed but similar to Google Icon
+Display,Number,Clock numbers on Lock screen and AOD screen displays incorrectly
+Display,Icon,Color of Incoming Call and Receiving Call Icons makes confusing
+Others,Video of preview,Preview video is not available on Store
+Display,Icon,Navigation buttons on navigation bar are same
+Display,Icon,Hour hand is too short it's hard to identify the time
+Display,Icon,Hour clock hand is longer than minute clock hand it's hard to identify the time
+Display,Icon,Some Apps have the same icon
+Display,Icon,brightness bar level is not be recognized
