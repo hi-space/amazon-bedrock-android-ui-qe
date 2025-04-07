@@ -98,8 +98,8 @@ def main():
         # Add model selection dropdown
         claude_models = [
             (BedrockModel.SONNET_3_0_CR, "Claude 3.0 Sonnet"),
-            (BedrockModel.SONNET_3_5_CR, "Claude 3.5 Sonnet"),
-            (BedrockModel.SONNET_3_7_CR, "Claude 3.7 Sonnet"),
+            # (BedrockModel.SONNET_3_5_CR, "Claude 3.5 Sonnet"),
+            # (BedrockModel.SONNET_3_7_CR, "Claude 3.7 Sonnet"),
             (BedrockModel.NOVA_LITE_CR, "Nova Lite"),
             (BedrockModel.NOVA_PRO_CR, "Nova Pro"),                 
         ]
